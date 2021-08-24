@@ -202,6 +202,13 @@ body {
     max-width: 700px;
 }
 
+.caption {
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+    height: 150px;
+}
+
 #caption {
     margin: auto;
     margin-top: 20px;
