@@ -524,3 +524,48 @@ nav ul li a:hover {
         cursor: pointer;
     }
 }
+
+/* Laser Engraving Page
+/////////////////////// */
+
+.laser-section h2 {
+    color: #1dc2a9;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 2em;
+}
+
+.laser-section p {
+    width: 60%;
+    color: #545454;
+    padding: 0px 40px 0px 40px;
+    text-align: center;
+    line-height: 150%;
+    margin: auto;
+}
+
+.engraver {
+    margin-top: 100px;
+}
+
+.turquoise-block {
+    background-color: #1dc2a9;
+    color: #ffffff;
+}
+
+.turquoise-block h2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.turquoise-block p {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.2em;
+    padding: 0px 100px 100px 100px;
+}
+
+.engraver-photo {
+    width: 100%;
+}
