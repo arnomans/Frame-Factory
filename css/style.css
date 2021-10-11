@@ -528,6 +528,7 @@ nav ul li a:hover {
 /* Laser Engraving Page
 /////////////////////// */
 
+/* Laser Engraving Section */
 .laser-section h2 {
     color: #1dc2a9;
     text-align: center;
@@ -544,6 +545,7 @@ nav ul li a:hover {
     margin: auto;
 }
 
+/* Laser Photo & Discription Section */
 .engraver {
     margin-top: 100px;
 }
@@ -568,4 +570,17 @@ nav ul li a:hover {
 
 .engraver-photo {
     width: 100%;
+}
+
+/* What can we Engrave Section */
+.light-grey-container {
+    background-color: rgba(241, 241, 241, 0.945);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.green-heading {
+    color: #1dc2a9;
+    text-align: center;
+    font-size: 2em;
 }
