@@ -606,3 +606,27 @@ nav ul li a:hover {
     margin: 0px 10% 0px 10%;
     text-align: center;
 }
+
+@media only screen and (min-width: 768px) {
+  .engraver-photo {
+      width: 70%;
+      margin: auto;
+      text-align: center;
+      display: block;
+      margin-top: -70px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+   .engraver p {
+       padding-left: 200px;
+       padding-right: 200px;
+   }
+   .engraver-photo {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    display: block;
+    margin-top: -70px;
+}
+}
