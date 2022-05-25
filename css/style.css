@@ -593,3 +593,16 @@ nav ul li a:hover {
     text-align: center;
     font-size: 2em;
 }
+
+.engrave-pic {
+    width: 50%;
+    text-align: center;
+    display: block;
+    text-align: center;
+    margin: 100px auto 0px auto;
+}
+
+.engrave-text {
+    margin: 0px 10% 0px 10%;
+    text-align: center;
+}
