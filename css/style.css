@@ -629,4 +629,16 @@ nav ul li a:hover {
     display: block;
     margin-top: -70px;
    }
+   .engraving-services {
+    display: flex;
+    margin-top: 50px;
+   }
+   .engrave-pic {
+    width: 200%;
+    margin-left: 50%;
+   }
+   .engrave-text {
+    width: 50%;
+    margin: auto;
+   }
 }
